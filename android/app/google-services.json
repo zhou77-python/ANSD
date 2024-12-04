@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451398354982",
+    "project_id": "gokhconnect-ccebe",
+    "storage_bucket": "gokhconnect-ccebe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451398354982:android:74c0b248bf382b8d33bee7",
+        "android_client_info": {
+          "package_name": "com.example.my_party"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXzxXTFigoCr_08JOlGj6zb2DN8LWEQ1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
